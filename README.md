@@ -1,12 +1,5 @@
-# Stylish Portolio template for Jekyll
+Alright bois, so we're gonna be using github mostly. Here's the link to the website for us to test our code: https://vishwakn13.github.io/WaterSafetyApp/ 
+Sometimes it cn take up to 10 minutes for the code to update. We're using github because it's free and everyone can collaborate toegther at the same time. Make sure that you don't make changes to the code while someone else is trying to commit changes. 
+HTML and CSS are very easy to use. Even people who don't think they can code can learn quickly - I'm looking at you Brandon. The only pre-requisite to learning HTML is knowing more than 500 words in the english language.
 
-A Jekyll implementation of the [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) template by [Start Bootstrap](http://startbootstrap.com/).
-
-See the site in action at https://volny.github.io/stylish-portfolio-jekyll/
-
-## To use the Stylish Portfolio template in your project
-
-- Start by adding your info in `_config.yml`
-- Add as many address lines as you want. Your address will also be used to show your location on the map.
-- For the emdeded map to work you'll need to [get a key from Google Maps Embed API](https://developers.google.com/maps/documentation/embed/?hl=en)
-- In `_layouts/front.html` reorder or remove section as you prefer.
+##Let's get to work bois
